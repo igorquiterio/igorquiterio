@@ -23,7 +23,6 @@ I'm a Javascript developer trying to focus on ReactJS and React-Native, feel fre
 <br />
 <br />
 <br />
-<br />
 
 [<img align="right" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="right" alt="Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
