@@ -16,6 +16,8 @@ I'm a Javascript developer trying to focus on ReactJS and React-Native, feel fre
 
 🏺️ Reading about stoicism lately
 
+🚀️ attending to Omnistack Bootcamp
+
 <br />
 <br />
 <br />
