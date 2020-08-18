@@ -1,4 +1,4 @@
-<img align="right" src="./Igorquiterio.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=530px/>
+<img align="right" src="https://github.com/igorquiterio/igorquiterio/blob/master/Igorquiterio.png" alt="Illustration of Igor" width=350px height=530px/>
 
 ### Hi, I'm Igor
 
