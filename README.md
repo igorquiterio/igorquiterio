@@ -2,7 +2,7 @@
 
 ### Hi, I'm Igor
 
-I'm a Javascript developer trying to focus on ReactJS and React-Native, feel free to talk with me about anything related to JS, I'm always open to discover new technologies and try it.I currently work at Grupo Muffato as web & mobile developer
+I'm a Javascript developer trying to focus on ReactJS and React-Native, feel free to talk with me about anything related to JS, I'm always open to discover new technologies and try it.I currently work as Front-End Developer at Advise Brasil
 
 🎓 Graduated in Computer Science @ Universidade Estadual de Londrina(UEL)
 
@@ -14,9 +14,8 @@ I'm a Javascript developer trying to focus on ReactJS and React-Native, feel fre
 
 🎧️ Podcast addict
 
-🏺️ Reading about stoicism lately
 
-
+<br />
 <br />
 <br />
 <br />
