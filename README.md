@@ -6,8 +6,6 @@ I'm a Javascript developer trying to focus on ReactJS and React-Native, feel fre
 
 🎓 Graduated in Computer Science @ Universidade Estadual de Londrina(UEL)
 
-🌱️ Vegetarian transitioning to veganism
-
 🧘️ mindfulness practitioner
 
 🎲️ Board games enthusiast
