@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/igorquiterio/igorquiterio/blob/master/Igorquiterio.png" alt="Illustration of Igor" width=350px/>
+<img align="left" src="https://github.com/igorquiterio/igorquiterio/blob/master/Igorinho.png" alt="Illustration of Igor" width=350px/>
 
 ### Hi, I'm Igor
 
