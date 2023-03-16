@@ -32,4 +32,3 @@ I'm a Javascript developer trying to focus on ReactJS and React-Native, feel fre
 
 [facebook]: https://www.facebook.com/igordcq
 
-![](https://visitor-badge.laobi.icu/badge?page_id=igorquiterio)
