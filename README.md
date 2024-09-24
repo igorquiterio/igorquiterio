@@ -2,7 +2,7 @@
 
 ### Hi, I'm Igor
 
-I'm a Javascript developer trying to focus on ReactJS and React-Native, feel free to talk with me about anything related to JS, I'm always open to discover new technologies and try it.I currently work as Frontend Developer at Eleflow Big Data
+I'm a Javascript developer trying to focused on ReactJS and React-Native, feel free to talk with me about anything related to JS, I'm always open to discover new technologies and try it.
 
 🎓 Graduated in Computer Science @ Universidade Estadual de Londrina(UEL)
 
